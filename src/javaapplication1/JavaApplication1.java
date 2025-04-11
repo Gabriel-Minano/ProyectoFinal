@@ -3,6 +3,7 @@
 //El corredor loco
 //Creador de palas
 //Zapatillas naranja
+//Sapo azul
 package javaapplication1;
 
 /**
