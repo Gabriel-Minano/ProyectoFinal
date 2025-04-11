@@ -2,6 +2,7 @@
 //El loro hablador
 //El corredor loco
 //Creador de palas
+//Zapatillas naranja
 package javaapplication1;
 
 /**
